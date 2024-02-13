@@ -1,0 +1,5 @@
+resource_group_name = "ss"
+azurerm_virtual_network_name = "ss"
+application_gateway_name = "cc"
+azurerm_subnet_name = "cc"
+gateway_ip_configuration_name = "dd"
